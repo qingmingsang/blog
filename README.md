@@ -6,12 +6,12 @@
 # 20170807-20170813
 
 ## SSO
-http://blog.csdn.net/cutesource/article/details/5838693
-http://blog.csdn.net/cutesource/article/details/5829998
-http://www.onmpw.com/tm/xwzj/network_145.html
-http://www.cnblogs.com/EzrealLiu/p/5559255.html
-http://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html
-http://itindex.net/detail/48346-sso-%E7%99%BB%E5%BD%95
-http://blog.csdn.net/clh604/article/details/20365967
+http://blog.csdn.net/cutesource/article/details/5838693 
+http://blog.csdn.net/cutesource/article/details/5829998 
+http://www.onmpw.com/tm/xwzj/network_145.html 
+http://www.cnblogs.com/EzrealLiu/p/5559255.html 
+http://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html 
+http://itindex.net/detail/48346-sso-%E7%99%BB%E5%BD%95 
+http://blog.csdn.net/clh604/article/details/20365967 
 
 
