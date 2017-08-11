@@ -37,6 +37,9 @@ https://developers.google.com/web/fundamentals/getting-started/codelabs/your-fir
 https://zhuanlan.zhihu.com/p/28037267
 
 
+## 数据扁平化
+https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html
 
+https://github.com/paularmstrong/normalizr
 
-
+https://github.com/reactjs/reselect
